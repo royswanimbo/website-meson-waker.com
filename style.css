@@ -1,0 +1,58 @@
+body {
+  background-color: rgb(6, 136, 136);
+}
+
+header img {
+  border-radius: 100px;
+  border: 4px solid rgb(0, 212, 35);
+  align-items: center;
+}
+
+header {
+  background: #5e0fcd;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  margin: 20px;
+  border-radius: 4px;
+}
+
+nav ul {
+  display: flex;
+}
+
+ul a {
+  margin: 1rem;
+  text-decoration: none;
+  text-align: center;
+}
+
+img {
+  margin: 10px;
+}
+
+section {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVOqIGv5Q8_piMYTvhuw2DhX6s-mvlik17rw&s);
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
+div :hover {
+  color: black;
+}
+
+p {
+  color: rgb(255, 255, 255);
+  background: #464343;
+  text-align: center;
+  padding: 10px;
+}
